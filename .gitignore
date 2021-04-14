@@ -20,3 +20,4 @@ pocketsphinx/pocketsphinx.py
 *_wrap.c
 pocketsphinx/data/
 pocketsphinx/model/
+*.DS_Store
